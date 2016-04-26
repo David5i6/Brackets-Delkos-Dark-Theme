@@ -14,7 +14,7 @@
         "brackets": ">=0.42.0"
     },
     "theme": {
-        "file": "delkos.css",
+        "file": "sai-brackets-dark-theme.css",
         "dark": true
     }
 }
